@@ -1,0 +1,2 @@
+# psqlrc
+psqlrc for postgresql
